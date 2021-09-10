@@ -1,8 +1,8 @@
 ## Olá! me chamo Victor Seixas!
 <div>
   <a href="https://github.com/Victors3ixas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victors3ixas&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victors3ixas&layout=compact&langs_count=7&theme=light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victors3ixas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victors3ixas&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
