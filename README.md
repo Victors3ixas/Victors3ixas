@@ -1,4 +1,4 @@
-## Olá! me chamo Victor Seixas!
+## Olá! me chamo Victor Seixas! 👨‍💻
 
 <div>
   <a href="#">
@@ -19,7 +19,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="30" src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico">
 </div>
 
-##
+<hr>
  
 <div> 
  <a href="https://discord.gg/lisarb" target="_blank">
