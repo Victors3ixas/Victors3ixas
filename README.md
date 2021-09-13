@@ -1,14 +1,12 @@
-## Olá! me chamo Victor Seixas! 👨‍💻
+### Olá! me chamo Victor Seixas! 👨‍💻
+
+<hr>
 
 <div>
-  <a href="#">
-    <div>
-      <img height="auto" src="https://github-readme-stats.vercel.app/api?username=Victors3ixas&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-    </div>
-    <div>
-      <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victors3ixas&layout=demo&langs_count=5"/>
-    </div>
-   </a>
+ <div>
+  <a href="https://github.com/Victors3ixas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victors3ixas&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victors3ixas&layout=compact&langs_count=7&theme=default"/>
 </div>
 
 <div style="display: flex; flex-direction: row;"><br>
